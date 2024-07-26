@@ -56,7 +56,7 @@
   <a href="https://osu.ppy.sh/users/31475193">
     <img src="https://img.shields.io/badge/osu!-EC6F66?style=for-the-badge&logo=osu&logoColor=white" alt="osu!">
   </a>
-  <a href="https://pastebin.com/u/ваш_профиль">
+  <a href="https://pastebin.com/u/nervan-iwnl">
     <img src="https://img.shields.io/badge/Pastebin-02396F?style=for-the-badge&logo=pastebin&logoColor=white" alt="Pastebin">
   </a>
   <a href="https://lichess.org/@/nervantus">
