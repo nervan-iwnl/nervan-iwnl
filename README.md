@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://steam-readme-stats-taupe.vercel.app/steam-widget?steamid=76561198801977286" alt="Steam Widget">
 </p>
+
 ---
 
 ### 📫 Contacts
