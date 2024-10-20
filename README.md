@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nervan-iwnl&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervan-iwnl&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervan-iwnl&layout=compacttheme=radical" alt="Top Languages">
 </p>
 
 ---
