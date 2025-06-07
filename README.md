@@ -36,7 +36,7 @@
 ### 🎮 Steam Stats
 
 <p align="center">
-  <img src="https://steam-readme-stats-taupe.vercel.app/steam-widget?steamid=76561198801977286" alt="Steam Widget">
+  <img src="https://steam-readme-stats-ifmfprcd4-nervans-projects.vercel.app/steam-widget?steamid=76561198801977286" alt="Steam Widget">
 </p>
 
 ---
